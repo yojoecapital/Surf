@@ -18,7 +18,7 @@ namespace Surf
             repl.AddCommand(
                 args => args.Length == 2 && args[0].Equals("open") && args[1].Equals("urls"),
                 commandManager.OpenUrls,
-                "open",
+                "open urls",
                 "Open the URLs JSON file."
             );
             repl.AddCommand(
