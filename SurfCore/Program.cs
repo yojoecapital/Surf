@@ -27,7 +27,7 @@ namespace Surf
                 "[query...]",
                 "Search for something."
             );
-            repl.Run(args, false, false);
+            repl.Process(args, false);
         }
     }
 }
