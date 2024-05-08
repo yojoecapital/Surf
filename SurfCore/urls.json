@@ -1,0 +1,42 @@
+[
+	{
+		"key": "default",
+		"value": "https://www.google.com/search?q=<*>"
+	},
+	{
+		"key": "default",
+		"value": "https://www.google.com/"
+	},
+	{
+		"key": "yt",
+		"value": "https://www.youtube.com/results?search_query=<*>"
+	},
+	{
+		"key": "yt",
+		"value": "https://www.youtube.com/"
+	},
+	{
+		"key": "gm",
+		"value": "https://mail.google.com/mail/u/<0>/#search/<*>"
+	},
+	{
+		"key": "gm",
+		"value": "https://mail.google.com/mail/u/<0>/#inbox"
+	},
+	{
+		"key": "gm",
+		"value": "https://mail.google.com/mail/u/0/#inbox"
+	},
+	{
+		"key": "mailto",
+		"value": "mailto:<*>"
+	},
+	{
+		"key": "mailto",
+		"value": "mailto:<*>"
+	},
+	{
+		"key": "gd",
+		"value": "https://drive.google.com/drive/u/0/my-drive"
+	}
+]
